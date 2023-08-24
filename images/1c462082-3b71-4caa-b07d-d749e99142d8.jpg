@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20230706T160000
+DTEND;TZID=Asia/Kolkata:20230706T170000
+DTSTAMP:20230705T121542Z
+ORGANIZER;CN=raghav@nineleaps.com:mailto:raghav@nineleaps.com
+UID:7o6uqlj2gi2dfv2hlqn5tt9c27@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sai.srinivas@nineleaps.com;X-NUM-GUESTS=0:mailto:sai.srinivas@ninel
+ eaps.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=irfan.hussain@nineleaps.com;X-NUM-GUESTS=0:mailto:irfan.hussain@nin
+ eleaps.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abhishek@nineleaps.com;X-NUM-GUESTS=0:mailto:abhishek@nineleaps.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lakshmi.parameshwar@nineleaps.com;X-NUM-GUESTS=0:mailto:lakshmi.par
+ ameshwar@nineleaps.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hema.b@nineleaps.com;X-NUM-GUESTS=0:mailto:hema.b@nineleaps.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=raghav@nineleaps.com;X-NUM-GUESTS=0:mailto:raghav@nineleaps.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=harshit.duggal@nineleaps.com;X-NUM-GUESTS=0:mailto:harshit.duggal@n
+ ineleaps.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/izd-oztz-dhb
+X-MICROSOFT-CDO-OWNERAPPTID:-1890493811
+CREATED:20230705T121541Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/iz
+ d-oztz-dhb\nOr dial: (US) +1 475-444-3452 PIN: 310888153#\nMore phone numbe
+ rs: https://tel.meet/izd-oztz-dhb?pin=8822544450750&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230705T121541Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Demo || Stakeholder
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
